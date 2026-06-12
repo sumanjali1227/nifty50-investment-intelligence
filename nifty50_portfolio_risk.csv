@@ -1,0 +1,4 @@
+,Annual_Return,Volatility,Sharpe_Ratio,Sortino_Ratio,Max_Drawdown,VaR_95,CVaR_95
+Conservative,13.91,18.56,0.4261,0.4949,-34.43,-1.64,-2.81
+Balanced,33.78,28.4,0.9781,1.3971,-73.63,-2.61,-3.95
+Aggressive,24.69,26.8,0.6974,0.9681,-57.0,-2.29,-3.8

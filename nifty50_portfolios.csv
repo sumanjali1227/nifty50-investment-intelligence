@@ -1,0 +1,22 @@
+Symbol,Weight,Sector,Weight_Pct,Profile
+BRITANNIA,0.19655,Consumer Goods,19.66,Conservative
+ASIANPAINT,0.16078,Consumer Goods,16.08,Conservative
+HINDUNILVR,0.10654,Consumer Goods,10.65,Conservative
+DRREDDY,0.10478,Pharma,10.48,Conservative
+ITC,0.09456,Consumer Goods,9.46,Conservative
+CIPLA,0.08103,Pharma,8.1,Conservative
+HDFCBANK,0.08052,Banking,8.05,Conservative
+SUNPHARMA,0.0543,Pharma,5.43,Conservative
+INFY,0.04868,IT,4.87,Conservative
+SBIN,0.02356,Banking,2.36,Conservative
+KOTAKBANK,0.01793,Banking,1.79,Conservative
+TITAN,0.01509,Consumer Goods,1.51,Conservative
+WIPRO,0.00954,IT,0.95,Conservative
+HCLTECH,0.00615,IT,0.62,Conservative
+SHREECEM,0.58711,Cement,58.71,Balanced
+MARUTI,0.18336,Automobile,18.34,Balanced
+BAJFINANCE,0.16536,Financial Services,16.54,Balanced
+EICHERMOT,0.06417,Automobile,6.42,Balanced
+MARUTI,0.61603,Automobile,61.6,Aggressive
+EICHERMOT,0.22714,Automobile,22.71,Aggressive
+BHARTIARTL,0.15683,Telecom,15.68,Aggressive
